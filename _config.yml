@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: W26 UNIV6020 Schema Library
+description: A library of data schemas generated from W26 UNIV6020 at the University of Guelph
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://agrifooddatacanada.github.io/W26_UNIV6020/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/agrifooddatacanada/W26_UNIV6020
