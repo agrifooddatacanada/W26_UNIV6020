@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Santosh BC
+parent: UNIV6026 Plant Agriculture Schemas
 ---
 
 # Schema information
