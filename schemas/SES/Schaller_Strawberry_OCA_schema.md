@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Jonah Schaller 
-parent: UNIV6026 School of Envirnomental Sciences Schemas
+parent: School of Envirnomental Sciences Schemas
 ---
 
 # Schema information
