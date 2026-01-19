@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Cassandra Ford - Herbicide and Tillage Efficacy - Fall 2025 Winter Wheat  
+title: Cassandra Ford
 parent: UNIV6026 Plant Agriculture Schemas
 ---
 
