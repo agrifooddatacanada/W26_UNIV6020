@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Fruit and Vegetable Crop Yield in Canada  
+title: Sabina Roka Magar - Fruit and Vegetable Crop Yield in Canada  
 ---
 
 # Schema information
@@ -17,7 +17,9 @@ title: Fruit and Vegetable Crop Yield in Canada
 **Classification**: RDF401  
 **Author**: Sabina Roka Magar  
 **Author Email**: srokamag@uoguelph.ca  
-**Schema package SAID**: ECgVVFH499VpBin2LARMv7z5_srYTux3RH4MPovzxi2K  
+**Schema package SAID**: ECgVVFH499VpBin2LARMv7z5_srYTux3RH4MPovzxi2K 
+
+[Download Schema](Magar_Fruit_OCA_package.json)
 
 ## Schema quick view
 
