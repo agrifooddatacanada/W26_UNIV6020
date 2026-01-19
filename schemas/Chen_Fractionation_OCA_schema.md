@@ -19,7 +19,7 @@ title: Ruitian Chen
 **Author Email**: ruitian@uoguelph.ca  
 **Schema package SAID**: ECNCAIlohdukspePEjQjX2wL5mh0oBpiWnU_3rPt55md  
 
-[Download Schema](Chen_Fractionation_UNIV6020_OCA_package.json)
+[Download Schema](Chen_Fractionation_OCA_package.json)
 
 ## Schema quick view
 
