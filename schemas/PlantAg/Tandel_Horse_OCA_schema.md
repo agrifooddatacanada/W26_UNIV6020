@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Muskan Tandel
-parent: UNIV6026 Plant Agriculture Schemas
+parent: Plant Agriculture Schemas
 ---
 
 # Schema information
