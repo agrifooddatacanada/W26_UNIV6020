@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Anna Stephen - Tabletop Strawberry Project  
+parent: UNIV6026 Plant Agriculture Schemas
 ---
 
 # Schema information
