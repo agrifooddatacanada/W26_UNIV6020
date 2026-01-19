@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Litter Bag Study  
+title: Manika Maharjan - Litter Bag Study  
 ---
 
 # Schema information
@@ -17,7 +17,9 @@ title: Litter Bag Study
 **Classification**: RDF401  
 **Author**: Manika Maharjan  
 **Author Email**: mmaharja@uoguelph.ca  
-**Schema package SAID**: EDICETOFBG0nRhLCsVJV-IOeS1VBL9fTAOYyVRYrw_qQ  
+**Schema package SAID**: EDICETOFBG0nRhLCsVJV-IOeS1VBL9fTAOYyVRYrw_qQ
+
+[Download Schema](Maharjan_Litter_OCA_package.json)
 
 ## Schema quick view
 
