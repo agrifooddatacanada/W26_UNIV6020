@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Muskan Tandel - Horse Experimental Data  
+title: Muskan Tandel
 parent: UNIV6026 Plant Agriculture Schemas
 ---
 
