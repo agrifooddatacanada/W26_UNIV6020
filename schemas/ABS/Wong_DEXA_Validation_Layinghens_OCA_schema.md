@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Nikita Wong  
-parent: UNIV6026 Animal Biosciences Schemas
+parent: Animal Biosciences Schemas
 ---
 
 # Schema information
