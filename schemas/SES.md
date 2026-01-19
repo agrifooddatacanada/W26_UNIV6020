@@ -1,5 +1,5 @@
 ---
-title: UNIV6026 School of Envirnomental Sciences Schemas
+title: School of Envirnomental Sciences Schemas
 layout: default
 nav_order: 3
 ---
