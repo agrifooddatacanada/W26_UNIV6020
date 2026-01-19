@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Alvaro Llamosas Ibanez - Canabis meristem tissue culture  
+parent: UNIV6026 Plant Agriculture Schemas
 ---
 
 # Schema information
