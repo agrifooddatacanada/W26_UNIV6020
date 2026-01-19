@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Ruitian Chen 
+parent: UNIV6026 School of Envirnomental Sciences Schemas
 ---
 
 # Schema information
