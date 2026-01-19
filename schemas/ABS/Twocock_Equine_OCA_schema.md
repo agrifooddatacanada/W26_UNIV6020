@@ -1,6 +1,7 @@
 ---
 layout: default  
-title: Caitlyn Twocock - Equine Digestibility Schema  
+title: Caitlyn Twocock - Equine Digestibility Schema 
+parent: UNIV6026 Animal Biosciences Schemas
 ---
 
 # Schema information
