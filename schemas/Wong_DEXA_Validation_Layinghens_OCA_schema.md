@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: DEXA_Validation_Layinghens  
+title: Nikita Wong - DEXA_Validation_Layinghens  
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: DEXA_Validation_Layinghens
 **Author**: Nikita Wong  
 **Author Email**: wailingn@uoguelph.ca  
 **Schema package SAID**: EDztblQZJqEKKE0b4TUgVAfXV6nJ4VgYxWGSdtsuBz4B  
+
+[Download Schema](Wong_DEXA_Validation_LayingHens_OCA_package.json)
 
 ## Schema quick view
 
