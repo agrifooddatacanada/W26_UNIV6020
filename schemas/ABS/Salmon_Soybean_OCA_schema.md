@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Philip Salmon - Soybean Meal Fermentation  
+parent: UNIV6026 Animal Biosciences Schemas
 ---
 
 # Schema information
