@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: UNIV6020 Project  
+title: Kamryn Barth
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: UNIV6020 Project
 **Author**: Kamryn Barth  
 **Author Email**: barthk@uoguelph.ca  
 **Schema package SAID**: EF_TwTK0R-cMxEMbsmXk8nwfp8MGIBaSWzudDagFswe8  
+
+[Download Schema](Barth_UNIV6020_OCA_package.json)
 
 ## Schema quick view
 
