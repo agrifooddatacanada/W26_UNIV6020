@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Jayden Thomas - Precision Feeding in AMS - Blood Samples  
+title: Jayden Thomas  
 parent: UNIV6026 Animal Biosciences Schemas
 ---
 
