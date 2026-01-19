@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Fractionation Data  
+title: Ruitian Chen 
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: Fractionation Data
 **Author**: Ruitian Chen  
 **Author Email**: ruitian@uoguelph.ca  
 **Schema package SAID**: ECNCAIlohdukspePEjQjX2wL5mh0oBpiWnU_3rPt55md  
+
+[Download Schema](Chen_Fractionation_UNIV6020_OCA_package.json)
 
 ## Schema quick view
 
