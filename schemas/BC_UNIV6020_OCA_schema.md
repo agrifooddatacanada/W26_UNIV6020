@@ -1,7 +1,6 @@
 ---
 layout: default  
 title: Santosh BC
-parent: W26 UNIV6020 RDM Optional Module
 ---
 
 # Schema information
