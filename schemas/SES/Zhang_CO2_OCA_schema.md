@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Tianrui Zhang - CO2 Enriched Irrigation  
+title: Tianrui Zhang  
 parent: UNIV6026 School of Envirnomental Sciences Schemas
 ---
 
