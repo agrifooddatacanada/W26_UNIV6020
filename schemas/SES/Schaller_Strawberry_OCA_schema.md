@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Jonah Schaller - Strawberry Tipburn Under Blue LED Light  
+title: Jonah Schaller 
 parent: UNIV6026 School of Envirnomental Sciences Schemas
 ---
 
