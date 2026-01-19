@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: UNIV6020 Assignment  
+title: Bibek Ghimire 
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: UNIV6020 Assignment
 **Author**: Bibek Ghimire  
 **Author Email**: bibek@uoguelph.ca  
 **Schema package SAID**: EAL-qhreRPgRfEfSFhPb3Fa6q9t47NlnIFM8tF5fBfC7  
+
+[Download Schema](Ghimire_UNIV6020_OCA_package.json)
 
 ## Schema quick view
 
