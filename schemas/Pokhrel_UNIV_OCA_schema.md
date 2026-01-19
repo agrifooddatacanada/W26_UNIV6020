@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: UNIV 6020 Assignment  
+title: Santosh Pokhrel
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: UNIV 6020 Assignment
 **Author**: Santosh Pokhrel  
 **Author Email**: spokhrel@uoguelph.ca  
 **Schema package SAID**: EJ7_b4Pwrids-HdvV09_vqk5T6vrKunSNoxYEuwFCf4n  
+
+[Download Schema](Pokhrel_UNIV_OCA_package.json)
 
 ## Schema quick view
 
