@@ -1,5 +1,5 @@
 ---
-title: UNIV6026 Plant Agriculture Schemas
+title: Plant Agriculture Schemas
 layout: default
 nav_order: 3
 ---
