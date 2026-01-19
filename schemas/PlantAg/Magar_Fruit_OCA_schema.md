@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Sabina Roka Magar
-parent: UNIV6026 Plant Agriculture Schemas
+parent: Plant Agriculture Schemas
 ---
 
 # Schema information
