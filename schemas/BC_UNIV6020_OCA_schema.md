@@ -12,12 +12,14 @@ title: UNIV6020
 1. TOC
 {:toc}
 
-**Name**: UNIV6020  
+**Name**: Santosh BC - UNIV6020  
 **Description**: This dataset contains field-level observations from a research trial evaluating the response of corn (Zea mays) to different nitrogen fertilizer application rates. It includes measurements for crop morphology (height), physiological health (SPAD chlorophyll readings), and final economic yield (grain weight). The data is organized by unique plot identifiers and includes spatial replication to ensure statistical validity.  
 **Classification**: RDF401  
 **Author**: Santosh BC  
 **Author Email**: sbc01@uoguelph.ca  
 **Schema package SAID**: EIv3AJ_BEXrcwSKHOCBLBbl3ranV9P3cImFrR4cNL0rx  
+
+[Download Schema](BC_UNIV6020_OCA_package.json)
 
 ## Schema quick view
 
