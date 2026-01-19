@@ -1,5 +1,5 @@
 ---
-title: UNIV6026 Biomedical Sciences Schemas
+title: Biomedical Sciences Schemas
 layout: default
 nav_order: 3
 ---
