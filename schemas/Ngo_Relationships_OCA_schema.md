@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Relationships among oral processing behaviour, sensory perception, and bolus properties of embedded almonds in chocolate matrices  
+title: Tung Lam Ngo - Relationships among oral processing behaviour, sensory perception, and bolus properties of embedded almonds in chocolate matrices  
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: Relationships among oral processing behaviour, sensory perception, and bo
 **Author**: Tung Lam Ngo  
 **Author Email**: tngo09@uoguelph.ca  
 **Schema package SAID**: EJrRwg_TprbMkLhXYwXiV8RC_uYugJeOzFfHAGBJaDNE  
+
+[Download Schema](Ngo_Relationships_OCA_package.json)
 
 ## Schema quick view
 
