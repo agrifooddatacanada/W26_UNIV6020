@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Sticky Card Insect Monitoring  
+title: Cheng Qian - Sticky Card Insect Monitoring  
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: Sticky Card Insect Monitoring
 **Author**: Cheng Qian  
 **Author Email**: cqian04@uoguelph.ca  
 **Schema package SAID**: EJBiRinTXOV2f58d8ZUAfQ7eZzygB4PuquDZVLq45UCM  
+
+[Download Schema](Qian_Sticky_OCA_package.json)
 
 ## Schema quick view
 
