@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Chloe El Hani - Sweep Sampling for Arthropods in Solanaceous Crops  
+parent: UNIV6026 School of Envirnomental Sciences Schemas
 ---
 
 # Schema information
