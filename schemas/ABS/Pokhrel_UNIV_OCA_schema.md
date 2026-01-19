@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Santosh Pokhrel
+parent: UNIV6026 Animal Biosciences Schemas
 ---
 
 # Schema information
