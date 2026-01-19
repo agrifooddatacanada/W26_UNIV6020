@@ -1,5 +1,5 @@
 ---
-title: UNIV6026 Food Science Schemas
+title: Food Science Schemas
 layout: default
 nav_order: 3
 ---
