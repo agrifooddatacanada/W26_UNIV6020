@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: UNIV6020_RDM_Hornick-Martyk  
+title: Hayden Hornick-Martyk
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: UNIV6020_RDM_Hornick-Martyk
 **Author**: Hayden Hornick-Martyk  
 **Author Email**: hhornick@uoguelph.ca  
 **Schema package SAID**: EKgAVme7Y0IVONvwzvCahA88ztl1AWzoqLfPSrPaOd7F  
+
+[Download Schema](Hornick_UNIV6020_OCA_package.json)
 
 ## Schema quick view
 
