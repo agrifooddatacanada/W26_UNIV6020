@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: CO2 Enriched Irrigation  
+title: Tianrui Zhang - CO2 Enriched Irrigation  
 ---
 
 # Schema information
@@ -17,7 +17,9 @@ title: CO2 Enriched Irrigation
 **Classification**: RDF401  
 **Author**: Tianrui Zhang  
 **Author Email**: tianrui@uoguelph.ca  
-**Schema package SAID**: EGM9kFNdMuFoyxIcDzpughTQMLqg51AL_n9vIpbCCWUS  
+**Schema package SAID**: EGM9kFNdMuFoyxIcDzpughTQMLqg51AL_n9vIpbCCWUS 
+
+[Download Schema](Zhang_CO2_OCA_package.json)
 
 ## Schema quick view
 
