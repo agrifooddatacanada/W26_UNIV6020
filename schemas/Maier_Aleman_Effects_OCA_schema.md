@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Effects of Choline and L-carnitine Supplementation on Lean and Obese Cats fed Maintenance  
+title: Natalie Maier-Aleman - Effects of Choline and L-carnitine Supplementation on Lean and Obese Cats fed Maintenance  
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: Effects of Choline and L-carnitine Supplementation on Lean and Obese Cats
 **Author**: Natalie Maier-Aleman  
 **Author Email**: nmaieral@uoguelph.ca  
 **Schema package SAID**: EHIPxAm6Px6IOq2m3jE6auflji5Ll4Wg8u9we2ZYoI_u  
+
+[Download Schema](Maier_Aleman_Effects_OCA_package.json)
 
 ## Schema quick view
 
