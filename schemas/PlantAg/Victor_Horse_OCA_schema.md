@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Josephin Nivetha Victor - Horse Feed Consumption and Weight Change Dataset  
+title: Josephin Nivetha Victor 
 parent: UNIV6026 Plant Agriculture Schemas
 ---
 
