@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Kamryn Barth
+parent: UNIV6026 Animal Biosciences Schemas
 ---
 
 # Schema information
