@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Biswas_RDM  
+title: Biswas Regmi 
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: Biswas_RDM
 **Author**: Biswas Regmi  
 **Author Email**: regmib@uoguelph.ca  
 **Schema package SAID**: EA1mAUYb_A722CkePqvc194WZPcOjWBaxur8Kn1qEbxQ  
+
+[Download Schema](Regmi_Biswas_RDM_OCA_package.json)
 
 ## Schema quick view
 
