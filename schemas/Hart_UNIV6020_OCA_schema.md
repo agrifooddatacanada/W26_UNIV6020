@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: UNIV6020 Sample Hart  
+title: Emilie Hart
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: UNIV6020 Sample Hart
 **Author**: Emilie Hart  
 **Author Email**: ehart05@uoguelph.ca  
 **Schema package SAID**: EOUKzVGtoWPLlGBtCsGHzljBQMi5KyIVAEvd9GOYpLco  
+
+[Download Schema](Hart_UNIV6020_OCA_package.json)
 
 ## Schema quick view
 
