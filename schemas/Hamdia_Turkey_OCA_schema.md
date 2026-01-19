@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Turkey Heat Balance Study Parameters  
+title: Bayan Abu Hamdia - Turkey Heat Balance Study Parameters  
 ---
 
 # Schema information
@@ -17,7 +17,9 @@ title: Turkey Heat Balance Study Parameters
 **Classification**: RDF402  
 **Author**: Bayan Abu Hamdia  
 **Author Email**: habuhamd@uoguelph.ca  
-**Schema package SAID**: EL9ifVzbjFAZa4fxckLFs-2Yt_7PKroQevWLuNdh8-In  
+**Schema package SAID**: EL9ifVzbjFAZa4fxckLFs-2Yt_7PKroQevWLuNdh8-In
+
+[Download Schema](Hamdia_Turkey_OCA_package.json)
 
 ## Schema quick view
 
