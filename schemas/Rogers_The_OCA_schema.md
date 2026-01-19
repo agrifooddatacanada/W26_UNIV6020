@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: The Effect of Puberty on Fear Behaviour in Laying Pullets  
+title: Meg Rogers - The Effect of Puberty on Fear Behaviour in Laying Pullets  
 ---
 
 # Schema information
@@ -17,7 +17,9 @@ title: The Effect of Puberty on Fear Behaviour in Laying Pullets
 **Classification**: RDF402  
 **Author**: Meg Rogers  
 **Author Email**: mroger13@uoguelph.ca  
-**Schema package SAID**: EB00EAHqWzEGohxo830UtCOcpyq0di37XMoUiYhXkCWl  
+**Schema package SAID**: EB00EAHqWzEGohxo830UtCOcpyq0di37XMoUiYhXkCWl
+
+[Download Schema](Rogers_The_OCA_package.json)
 
 ## Schema quick view
 
