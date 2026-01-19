@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Sweep Sampling for Arthropods in Solanaceous Crops  
+title: Chloe El Hani - Sweep Sampling for Arthropods in Solanaceous Crops  
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: Sweep Sampling for Arthropods in Solanaceous Crops
 **Author**: Chloe El Hani  
 **Author Email**: celhani@uoguelph.ca  
 **Schema package SAID**: EA0b3tdu1DGv5ldhcD_sycAmywFu7w9dhBGctTYifeOt  
+
+[Download Schema](Hani_Sweep_OCA_package.json)
 
 ## Schema quick view
 
