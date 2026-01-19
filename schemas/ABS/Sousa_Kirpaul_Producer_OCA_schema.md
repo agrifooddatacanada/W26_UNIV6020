@@ -1,6 +1,7 @@
 ---
 layout: default  
-title: Sean Sousa-Kirpaul - Producer Ridgling Data  
+title: Sean Sousa-Kirpaul - Producer Ridgling Data 
+parent: UNIV6026 Animal Biosciences Schemas
 ---
 
 # Schema information
