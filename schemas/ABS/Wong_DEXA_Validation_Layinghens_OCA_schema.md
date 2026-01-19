@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Nikita Wong - DEXA_Validation_Layinghens  
+title: Nikita Wong  
 parent: UNIV6026 Animal Biosciences Schemas
 ---
 
