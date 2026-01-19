@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Bibek Ghimire 
+parent: School of Environmental Sciences Schemas 
 ---
 
 # Schema information
