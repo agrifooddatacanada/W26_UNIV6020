@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Breed Comparison Gut Permeability Data  
+title: Carmen Vanderwal - Breed Comparison Gut Permeability Data  
 ---
 
 # Schema information
@@ -17,7 +17,9 @@ title: Breed Comparison Gut Permeability Data
 **Classification**: RDF402  
 **Author**: Carmen Vanderwal  
 **Author Email**: cvande10@uoguelph.ca  
-**Schema package SAID**: EBzyEbYEf8Q1WZ-5YT-gaQLcsR1CX0u7WtGhB9585gnE  
+**Schema package SAID**: EBzyEbYEf8Q1WZ-5YT-gaQLcsR1CX0u7WtGhB9585gnE
+
+[Download Schema](Vanderwal_Breed_OCA_package.json)
 
 ## Schema quick view
 
