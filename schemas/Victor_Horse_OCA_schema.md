@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Horse Feed Consumption and Weight Change Dataset  
+title: Josephin Nivetha Victor - Horse Feed Consumption and Weight Change Dataset  
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: Horse Feed Consumption and Weight Change Dataset
 **Author**: Josephin Nivetha Victor  
 **Author Email**: victorj@uoguelph.ca  
 **Schema package SAID**: EHCS_PHYMmQTky-7jEGRgvQPTD1O_DKvop9gU0OX4fMx  
+
+[Download Schema](Victor_Horse_OCA_package.json)
 
 ## Schema quick view
 
