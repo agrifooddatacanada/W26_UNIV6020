@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Sabina Roka Magar - Fruit and Vegetable Crop Yield in Canada  
+title: Sabina Roka Magar
 parent: UNIV6026 Plant Agriculture Schemas
 ---
 
