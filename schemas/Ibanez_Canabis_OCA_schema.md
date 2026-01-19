@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Canabis meristem tissue culture  
+title: Alvaro Llamosas Ibanez - Canabis meristem tissue culture  
 ---
 
 # Schema information
@@ -17,7 +17,9 @@ title: Canabis meristem tissue culture
 **Classification**: RDF405  
 **Author**: Alvaro Llamosas Ibanez  
 **Author Email**: llamosaa@uoguelph.ca  
-**Schema package SAID**: EPCp61nYsC7LuHGdca7bRDSusJZtmay6xUrgIkS-oDQd  
+**Schema package SAID**: EPCp61nYsC7LuHGdca7bRDSusJZtmay6xUrgIkS-oDQd 
+
+[Download Schema](Ibanez_Canabis_OCA_package.json)
 
 ## Schema quick view
 
