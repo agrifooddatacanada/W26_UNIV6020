@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Producer Ridgling Data  
+title: Sean Sousa-Kirpaul - Producer Ridgling Data  
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: Producer Ridgling Data
 **Author**: Sean Sousa-Kirpaul  
 **Author Email**: ssousaki@uoguelph.ca  
 **Schema package SAID**: ENlB6LFS2nxDk3pY71G0KXaSXuf81rYoVP61wSP5fkhi  
+
+[Download Schema](Sousa_Kirpaul_Producer_OCA_package.json)
 
 ## Schema quick view
 
