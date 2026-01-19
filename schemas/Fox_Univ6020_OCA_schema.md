@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Univ6020 Assn  
+title: Benjamin Fox
 ---
 
 # Schema information
@@ -17,7 +17,9 @@ title: Univ6020 Assn
 **Classification**: RDF402  
 **Author**: Benjamin Fox  
 **Author Email**: bfox03@uoguelph.ca  
-**Schema package SAID**: EHp64uCsfqx1Xrjn3qRw877bh5AvY4HqpbTOvwxZpxw1  
+**Schema package SAID**: EHp64uCsfqx1Xrjn3qRw877bh5AvY4HqpbTOvwxZpxw1 
+
+[Download Schema](Fox_Univ6020_OCA_package.json)
 
 ## Schema quick view
 
