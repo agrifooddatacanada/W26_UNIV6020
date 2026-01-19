@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Ella Jeffers - Plant Destructive Harvest Data Collection
+title: Ella Jeffers
 parent: UNIV6026 School of Envirnomental Sciences Schemas
 ---
 
