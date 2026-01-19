@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Natalie Maier-Aleman
-parent: UNIV6026 Biomedical Sciences Schemas
+parent: Biomedical Sciences Schemas
 ---
 
 # Schema information
