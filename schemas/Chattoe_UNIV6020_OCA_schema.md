@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: UNIV6020 Schema  
+title: Alexander Chattoe
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: UNIV6020 Schema
 **Author**: Alexander Chattoe  
 **Author Email**: achattoe@uoguelph.ca  
 **Schema package SAID**: EOVOSNnYf9MrbZUl7evCG3btbGRnWU65fj-IXCQZHsFY  
+
+[Download Schema](Chattoe_UNIV6020_OCA_package.json)
 
 ## Schema quick view
 
