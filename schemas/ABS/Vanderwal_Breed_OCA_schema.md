@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Carmen Vanderwal
-parent: UNIV6026 Animal Biosciences Schemas
+parent: Animal Biosciences Schemas
 ---
 
 # Schema information
