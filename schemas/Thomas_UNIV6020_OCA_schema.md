@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: UNIV6020 RDM - Precision Feeding in AMS: Blood Samples  
+title: Jayden Thomas - Precision Feeding in AMS - Blood Samples  
 ---
 
 # Schema information
@@ -17,7 +17,9 @@ title: UNIV6020 RDM - Precision Feeding in AMS: Blood Samples
 **Classification**: RDF402  
 **Author**: Jayden Thomas  
 **Author Email**: jthoma26@uoguelph.ca  
-**Schema package SAID**: EI-7TetKQfTupFIuSU3kDIwopyhBVR-V6w9nq1uKWULY  
+**Schema package SAID**: EI-7TetKQfTupFIuSU3kDIwopyhBVR-V6w9nq1uKWULY
+
+[Download Schema](Thomas_UNIV6020_OCA_package.json)
 
 ## Schema quick view
 
