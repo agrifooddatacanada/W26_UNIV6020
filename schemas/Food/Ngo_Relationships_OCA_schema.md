@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Tung Lam Ngo 
-parent: UNIV6026 Food Science Schemas
+parent: Food Science Schemas
 ---
 
 # Schema information
