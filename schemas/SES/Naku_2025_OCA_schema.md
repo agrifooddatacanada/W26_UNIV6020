@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Banabas Selorm Naku  
-parent: UNIV6026 School of Envirnomental Sciences Schemas
+parent: School of Envirnomental Sciences Schemas
 ---
 
 # Schema information
