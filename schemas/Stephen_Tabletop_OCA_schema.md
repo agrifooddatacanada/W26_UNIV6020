@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Tabletop Strawberry Project  
+title: Anna Stephen - Tabletop Strawberry Project  
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: Tabletop Strawberry Project
 **Author**: Anna Stephen  
 **Author Email**: asteph08@uoguelph.ca  
 **Schema package SAID**: EKiYF-5xIMezPLGs_MIq3AKR0AMsrHwgKMbCj2_FZ80L  
+
+[Download Schema](Stephen_Tabletop_OCA_package.json)
 
 ## Schema quick view
 
