@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Meg Rogers - The Effect of Puberty on Fear Behaviour in Laying Pullets  
+title: Meg Rogers 
 parent: UNIV6026 Animal Biosciences Schemas
 ---
 
