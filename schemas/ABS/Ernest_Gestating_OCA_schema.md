@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Vikki Ernest - Gestating Gilt Tissue Compositions  
+title: Vikki Ernest  
 parent: UNIV6026 Animal Biosciences Schemas
 ---
 
