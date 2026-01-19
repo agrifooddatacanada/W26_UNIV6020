@@ -1,6 +1,7 @@
 ---
 layout: default  
-title: Bayan Abu Hamdia - Turkey Heat Balance Study Parameters  
+title: Bayan Abu Hamdia - Turkey Heat Balance Study Parameters 
+parent: UNIV6026 Animal Biosciences Schemas
 ---
 
 # Schema information
