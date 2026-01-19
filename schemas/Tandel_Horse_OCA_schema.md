@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Horse Experimental Data  
+title: Muskan Tandel - Horse Experimental Data  
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: Horse Experimental Data
 **Author**: Muskan Tandel  
 **Author Email**: tandelm@uoguelph.ca  
 **Schema package SAID**: EHR8fj67q3xaP7_1dU2Q6Her5OGzRz6HoGdEiapLf3dk  
+
+[Download Schema](Tandel_Horse_OCA_package.json)
 
 ## Schema quick view
 
