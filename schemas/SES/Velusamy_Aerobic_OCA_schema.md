@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Vijay  Velusamy - Aerobic Biodegradation Bioplastics in Agricultural Soil
+title: Vijay  Velusamy
 parent: UNIV6026 School of Envirnomental Sciences Schemas
 ---
 
