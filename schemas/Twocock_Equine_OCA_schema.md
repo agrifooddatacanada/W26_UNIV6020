@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Equine Digestibility Schema  
+title: Caitlyn Twocock - Equine Digestibility Schema  
 ---
 
 # Schema information
@@ -17,7 +17,9 @@ title: Equine Digestibility Schema
 **Classification**: RDF402  
 **Author**: Caitlyn Twocock  
 **Author Email**: ctwocock@uoguelph.ca  
-**Schema package SAID**: EKwbMhwGZr783T1yKm48ZuriFc9dAn8GFnjpgNca2jmZ  
+**Schema package SAID**: EKwbMhwGZr783T1yKm48ZuriFc9dAn8GFnjpgNca2jmZ 
+
+[Download Schema](Twocock_Equine_OCA_package.json)
 
 ## Schema quick view
 
