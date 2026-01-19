@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Emmeline te Bokkel
+title: Emmeline Te Bokkel
 parent: UNIV6026 Animal Biosciences Schemas
 ---
 
