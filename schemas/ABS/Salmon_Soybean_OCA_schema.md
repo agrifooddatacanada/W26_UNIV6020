@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Philip Salmon  
-parent: UNIV6026 Animal Biosciences Schemas
+parent: Animal Biosciences Schemas
 ---
 
 # Schema information
