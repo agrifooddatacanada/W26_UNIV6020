@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: UNIV6020 Sample MER  
+title: Mohammad Eshaq Rasekh
 ---
 
 # Schema information
@@ -17,7 +17,9 @@ title: UNIV6020 Sample MER
 **Classification**: RDF404  
 **Author**: Mohammad Eshaq Rasekh  
 **Author Email**: mrasekh@uoguelph.ca  
-**Schema package SAID**: EOdpMWZ7f98LpiEgiM-wx5OacaGA4wwvD4WZ0sgxEdrk  
+**Schema package SAID**: EOdpMWZ7f98LpiEgiM-wx5OacaGA4wwvD4WZ0sgxEdrk
+
+[Download Schema](Rasekh_UNIV6020_OCA_package.json)
 
 ## Schema quick view
 
