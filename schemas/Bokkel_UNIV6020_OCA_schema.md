@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: UNIV6020  
+title: Emmeline te Bokkel
 ---
 
 # Schema information
@@ -17,7 +17,9 @@ title: UNIV6020
 **Classification**: RDF402  
 **Author**: Emmeline te Bokkel  
 **Author Email**: etebokke@uoguelph.ca  
-**Schema package SAID**: EJNElGQ1iYssx-MZzUsNKXuOigPcAvR_8YDGSKv_iNJF  
+**Schema package SAID**: EJNElGQ1iYssx-MZzUsNKXuOigPcAvR_8YDGSKv_iNJF 
+
+[Download Schema](Bokkel_UNIV6020_OCA_package.json)
 
 ## Schema quick view
 
