@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Strawberry Tipburn Under Blue LED Light  
+title: Jonah Schaller - Strawberry Tipburn Under Blue LED Light  
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: Strawberry Tipburn Under Blue LED Light
 **Author**: Jonah Schaller  
 **Author Email**: schaller@uoguelph.ca  
 **Schema package SAID**: EDGllXsRtME1EuMnjF9HfywSEe9LC3DeFAy_pH5EXNAy  
+
+[Download Schema](Schaller_Strawberry_OCA_package.json)
 
 ## Schema quick view
 
