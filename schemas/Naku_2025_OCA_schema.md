@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: 2025 UNIV6020 SCHEMA  
+title: Banabas Selorm Naku  
 ---
 
 # Schema information
@@ -17,7 +17,9 @@ title: 2025 UNIV6020 SCHEMA
 **Classification**: RDF401  
 **Author**: Banabas Selorm Naku  
 **Author Email**: bnaku@uoguelph.ca  
-**Schema package SAID**: EJcbyfNFSwhWr5lxIiEqCm10sJb03QBu3d5JhjRvG1BZ  
+**Schema package SAID**: EJcbyfNFSwhWr5lxIiEqCm10sJb03QBu3d5JhjRvG1BZ 
+
+[Download Schema](Naku_2025_OCA_package.json)
 
 ## Schema quick view
 
