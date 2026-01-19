@@ -19,7 +19,7 @@ title: Ella Jeffers - Plant Destructive Harvest Data Collection
 **Author Email**: jefferse@uoguelph.ca  
 **Schema package SAID**: EPzbvJO7pkDg656OE3t0XNTSNsov_PEHuopVL2DlMhsc 
 
-[Download Schema](BC_UNIV6020_OCA_package.json)
+[Download Schema](Jeffers_Plant_OCA_package.json)
 
 ## Schema quick view
 
