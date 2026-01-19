@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Tung Lam Ngo - Relationships among oral processing behaviour, sensory perception, and bolus properties of embedded almonds in chocolate matrices  
+parent: UNIV6026 Food Science Schemas
 ---
 
 # Schema information
