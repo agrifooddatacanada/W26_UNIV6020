@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Cheng Qian - Sticky Card Insect Monitoring  
+title: Cheng Qian 
 parent: UNIV6026 Plant Agriculture Schemas
 ---
 
