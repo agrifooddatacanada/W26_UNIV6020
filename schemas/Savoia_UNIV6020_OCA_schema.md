@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: UNIV6020 Sample  
+title: Natalie Savoia
 ---
 
 # Schema information
@@ -17,7 +17,9 @@ title: UNIV6020 Sample
 **Classification**: RDF106  
 **Author**: Natalie Savoia  
 **Author Email**: nsavoia@uoguelph.ca  
-**Schema package SAID**: EOvUZmVAfszkUU3k5wfs-TZAZI8YqC3ZXGrWHcQCWQda  
+**Schema package SAID**: EOvUZmVAfszkUU3k5wfs-TZAZI8YqC3ZXGrWHcQCWQda 
+
+[Download Schema](Savoia_UNIV6020_OCA_package.json)
 
 ## Schema quick view
 
