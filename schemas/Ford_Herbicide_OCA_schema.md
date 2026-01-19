@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Herbicide and Tillage Efficacy - Fall 2025 Winter Wheat  
+title: Cassandra Ford - Herbicide and Tillage Efficacy - Fall 2025 Winter Wheat  
 ---
 
 # Schema information
@@ -17,7 +17,9 @@ title: Herbicide and Tillage Efficacy - Fall 2025 Winter Wheat
 **Classification**: RDF401  
 **Author**: Cassandra Ford  
 **Author Email**: cford04@uoguelph.ca  
-**Schema package SAID**: EHZlwCcMK8arnwGd9LjSxmFVYfUne31r526ZjrtAr6J2  
+**Schema package SAID**: EHZlwCcMK8arnwGd9LjSxmFVYfUne31r526ZjrtAr6J2 
+
+[Download Schema](Ford_Herbicide_OCA_package.json)
 
 ## Schema quick view
 
