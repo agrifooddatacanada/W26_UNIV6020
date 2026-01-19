@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Soybean Meal Fermentation  
+title: Philip Salmon - Soybean Meal Fermentation  
 ---
 
 # Schema information
@@ -18,6 +18,8 @@ title: Soybean Meal Fermentation
 **Author**: Philip Salmon  
 **Author Email**: psalmo01@uoguelph.ca  
 **Schema package SAID**: EKyq32fq9TjNcJ6gCfnblNoiv6RzRZhr7En72eCnduGr  
+
+[Download Schema](Salmon_Soybean_OCA_package.json)
 
 ## Schema quick view
 
