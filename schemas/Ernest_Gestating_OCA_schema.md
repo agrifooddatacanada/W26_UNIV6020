@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Gestating Gilt Tissue Compositions  
+title: Vikki Ernest - Gestating Gilt Tissue Compositions  
 ---
 
 # Schema information
@@ -17,7 +17,9 @@ title: Gestating Gilt Tissue Compositions
 **Classification**: RDF401  
 **Author**: Vikki Ernest  
 **Author Email**: vernest@uoguelph.ca  
-**Schema package SAID**: EB--srzAd0RYfwXKM8yhvzDfuw-vX0WH1whauoE1pBpe  
+**Schema package SAID**: EB--srzAd0RYfwXKM8yhvzDfuw-vX0WH1whauoE1pBpe
+
+[Download Schema](Ernest_Gestating_OCA_package.json)
 
 ## Schema quick view
 
