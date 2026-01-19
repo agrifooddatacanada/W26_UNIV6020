@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Biswas Regmi 
+parent: UNIV6026 Plant Agriculture Schemas
 ---
 
 # Schema information
