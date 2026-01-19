@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Manika Maharjan - Litter Bag Study  
+parent: UNIV6026 School of Envirnomental Sciences Schemas
 ---
 
 # Schema information
