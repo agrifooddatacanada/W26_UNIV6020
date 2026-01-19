@@ -1,6 +1,7 @@
 ---
 layout: default  
-title: Carmen Vanderwal - Breed Comparison Gut Permeability Data  
+title: Carmen Vanderwal - Breed Comparison Gut Permeability Data
+parent: UNIV6026 Animal Biosciences Schemas
 ---
 
 # Schema information
