@@ -1,5 +1,5 @@
 ---
-title: UNIV6026 Animal Biosciences Schemas
+title: Animal Biosciences Schemas
 layout: default
 nav_order: 3
 ---
