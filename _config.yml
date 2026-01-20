@@ -7,6 +7,6 @@ url: https://agrifooddatacanada.github.io/W26_UNIV6020/
 aux_links:
   Template Repository: https://github.com/agrifooddatacanada/W26_UNIV6020
 
-# Maximum amount of words to display before a matched word in the preview
-# Default: 5
-search.preview_words_before: 5
+# Maximum amount of previews per search result
+# Default: 3
+search.previews: 3
