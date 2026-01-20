@@ -1,6 +1,6 @@
 # Schema Library
 
-Welcome to the Schema library.
+Welcome to the Schema library [schema library](https://agrifooddatacanada.github.io/W26_UNIV6020/) to view and search the library contents.
 
 Because this work is all done within GitHub, the complete history of changes is available using GitHub Commit history tools.
 
