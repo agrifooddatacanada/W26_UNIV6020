@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Bohren TMI  
+parent: Animal Biosciences Schemas
 ---
 
 # Schema information
@@ -18,6 +19,8 @@ title: Bohren TMI
 **Author**: Alicia Bohren  
 **Author Email**: abohren@uoguelph.ca  
 **Schema package SAID**: EJzvWdcMrHvjAL8ssyC0pmtRUvBR7-Id14FcLO9IS0zq  
+
+[Download Schema](Bohren_OCA_package.json)
 
 ## Schema quick view
 
