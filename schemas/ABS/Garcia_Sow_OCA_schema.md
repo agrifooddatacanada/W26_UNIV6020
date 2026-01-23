@@ -1,6 +1,7 @@
 ---
 layout: default  
-title: Sow Nutrition and Fetal Development Dataset  
+title: Bianca Garcia
+parent: Animal Biosciences Schemas
 ---
 
 # Schema information
