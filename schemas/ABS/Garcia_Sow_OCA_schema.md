@@ -20,6 +20,8 @@ parent: Animal Biosciences Schemas
 **Author Email**: bgarcia@uoguelph.ca  
 **Schema package SAID**: EE_XTnPBijt7Bh3FgxhjNeoNyxg-4nQXg-C7i2QXhq0t  
 
+[Download Schema](Garcia_Sow_OCA_package.json)
+
 ## Schema quick view
 
 | Attribute | Label | Description |
