@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Chloe El Hani 
-parent: School of Envirnomental Sciences Schemas
+parent: School of Environmental Sciences Schemas
 ---
 
 # Schema information
