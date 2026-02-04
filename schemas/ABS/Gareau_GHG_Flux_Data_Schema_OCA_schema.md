@@ -20,7 +20,7 @@ parent: Animal Biosciences Schemas
 **Author Email**: gareaum@uoguelph.ca  
 **Schema package SAID**: ENkZNNH9QYzX3mnk9YQ2s-S2Zx3ONfXTTMG4kofoFpbD  
 
-[Download Schema](Gareau_GHG_Flux_Data_Schema_OCA_schema.json)
+[Download Schema](Gareau_GHG_Flux_Data_Schema_OCA_package.json)
 
 ## Schema quick view
 
