@@ -1,5 +1,5 @@
 ---
-title: School of Envirnomental Sciences Schemas
+title: School of Environmental Sciences Schemas
 layout: default
 nav_order: 3
 ---
