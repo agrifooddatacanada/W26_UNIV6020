@@ -1,6 +1,7 @@
 ---
 layout: default  
-title: GHG_Flux_Data_Schema  
+title: Michelle Gareau 
+parent: School of Envirnomental Sciences Schemas
 ---
 
 # Schema information
@@ -18,6 +19,8 @@ title: GHG_Flux_Data_Schema
 **Author**: Michelle Gareau  
 **Author Email**: gareaum@uoguelph.ca  
 **Schema package SAID**: ENkZNNH9QYzX3mnk9YQ2s-S2Zx3ONfXTTMG4kofoFpbD  
+
+[Download Schema](Gareau_GHG_Flux_Data_Schema_OCA_package(2).json)
 
 ## Schema quick view
 
