@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Michelle Gareau 
-parent: Animal Biosciences Schemas
+parent: School of Envirnomental Sciences Schemas
 ---
 
 # Schema information
