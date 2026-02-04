@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Ruitian Chen 
-parent: School of Envirnomental Sciences Schemas
+parent: School of Environmental Sciences Schemas
 ---
 
 # Schema information
